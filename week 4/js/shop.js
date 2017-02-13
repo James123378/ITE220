@@ -8,7 +8,7 @@ var shop = {
 		"Android Phone"],
     
     
-	prices: [	1,5,20,40],
+	prices: [	10,10,199,159],
 	
 	displayProductList: function() {
 		var productText = "";
